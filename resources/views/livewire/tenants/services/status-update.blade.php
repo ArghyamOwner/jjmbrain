@@ -1,0 +1,9 @@
+<div>
+   <x-input-switch 
+        name="status"
+        wire:model="status"
+        :state="$status"
+        on-value="published"
+        off-value="unpublished"
+   />
+</div>

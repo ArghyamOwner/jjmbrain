@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has Verified the Scheme <strong>{{ $activity?->scheme?->name }}</strong>.

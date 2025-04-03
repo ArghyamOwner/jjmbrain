@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> deleted an image from the <strong>Scheme</strong> gallery.

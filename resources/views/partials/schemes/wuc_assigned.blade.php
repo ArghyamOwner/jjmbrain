@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has attached a WUC to <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

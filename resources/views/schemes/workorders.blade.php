@@ -1,0 +1,1 @@
+<livewire:schemes.workorders :scheme-id="$scheme->id" />

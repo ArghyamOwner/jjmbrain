@@ -1,0 +1,1 @@
+<strong>SMT</strong> Created New Workorder for <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

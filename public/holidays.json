@@ -1,0 +1,432 @@
+[
+    {
+        "date": "January 15, 2024",
+        "name": "Magh Bihu and Tusu Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 16, 2024",
+        "name": "Magh Bihu and Tusu Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 23, 2024",
+        "name": "Netajis Birthday",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 23, 2024",
+        "name": "Gwthar Bathou San",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 26, 2024",
+        "name": "Republic Day",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 31, 2024",
+        "name": "Me-Dam-Me-Phi",
+        "type": "Holiday"
+    },
+    {
+        "date": "February 24, 2024",
+        "name": "Bir Chilaray Divas",
+        "type": "Holiday"
+    },
+    {
+        "date": "March 25, 2024",
+        "name": "Dol Jatra",
+        "type": "Holiday"
+    },
+    {
+        "date": "March 29, 2024",
+        "name": "Good Friday",
+        "type": "Holiday"
+    },
+    {
+        "date": "April 11, 2024",
+        "name": "Id-Ul-Fitr",
+        "type": "Holiday"
+    },
+    {
+        "date": "April 13, 2024",
+        "name": "Bohag Bihu",
+        "type": "Holiday"
+    },
+    {
+        "date": "April 14, 2024",
+        "name": "Bohag Bihu",
+        "type": "Holiday"
+    },
+    {
+        "date": "April 15, 2024",
+        "name": "Bohag Bihu",
+        "type": "Holiday"
+    },
+    {
+        "date": "April 20, 2024",
+        "name": "Sati Sadhani Divas",
+        "type": "Holiday"
+    },
+    {
+        "date": "May 1, 2024",
+        "name": "May Day",
+        "type": "Holiday"
+    },
+    {
+        "date": "May 8, 2024",
+        "name": "Tithi of Damodar Deva",
+        "type": "Holiday"
+    },
+    {
+        "date": "May 23, 2024",
+        "name": "Buddha Purnima",
+        "type": "Holiday"
+    },
+    {
+        "date": "May 24, 2024",
+        "name": "Janmotsav of Sri Sri Madhabdeva",
+        "type": "Holiday"
+    },
+    {
+        "date": "June 17, 2024",
+        "name": "Id-Ul-Zuha",
+        "type": "Holiday"
+    },
+    {
+        "date": "August 15, 2024",
+        "name": "Independence Day",
+        "type": "Holiday"
+    },
+    {
+        "date": "August 23, 2024",
+        "name": "Tirobhab Tithi of Madhabdeva",
+        "type": "Holiday"
+    },
+    {
+        "date": "August 26, 2024",
+        "name": "Janmastomi",
+        "type": "Holiday"
+    },
+    {
+        "date": "September 4, 2024",
+        "name": "Tirubhav Tithi of Srimanta Sankardeva",
+        "type": "Holiday"
+    },
+    {
+        "date": "September 14, 2024",
+        "name": "Karam Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 2, 2024",
+        "name": "Birthday of Mahatma Gandhi",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 10, 2024",
+        "name": "Durga Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 11, 2024",
+        "name": "Durga Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 12, 2024",
+        "name": "Durga Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 13, 2024",
+        "name": "Vijaya Dashomi / Janmotsav of Sri Sri Sankardeva",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 17, 2024",
+        "name": "Kati Bihu",
+        "type": "Holiday"
+    },
+    {
+        "date": "October 31, 2024",
+        "name": "Kali Puja & Diwali",
+        "type": "Holiday"
+    },
+    {
+        "date": "November 3, 2024",
+        "name": "Bhatri Dwitiya",
+        "type": "Holiday"
+    },
+    {
+        "date": "November 7, 2024",
+        "name": "Chhat Puja",
+        "type": "Holiday"
+    },
+    {
+        "date": "November 15, 2024",
+        "name": "Guru Nanak’s Birthday",
+        "type": "Holiday"
+    },
+    {
+        "date": "November 24, 2024",
+        "name": "Lachit Divas",
+        "type": "Holiday"
+    },
+    {
+        "date": "December 2, 2024",
+        "name": "Asom Divas( Su-Ka-Pha Divas)",
+        "type": "Holiday"
+    },
+    {
+        "date": "December 25, 2024",
+        "name": "Christmas Day",
+        "type": "Holiday"
+    },
+    {
+        "date": "January 15, 2024",
+        "name": "Magh Bihu",
+        "type": "State Holiday"
+    },
+    {
+        "date": "January 26, 2024",
+        "name": "Republic Day",
+        "type": "State Holiday"
+    },
+    {
+        "date": "March 25, 2024",
+        "name": "Dol Jatra",
+        "type": "State Holiday"
+    },
+    {
+        "date": "April 11, 2024",
+        "name": "Id-ul-Fitr",
+        "type": "State Holiday"
+    },
+    {
+        "date": "April 13, 2024",
+        "name": "Bohag Bihu",
+        "type": "State Holiday"
+    },
+    {
+        "date": "April 14, 2024",
+        "name": "Bohag Bihu",
+        "type": "State Holiday"
+    }, 
+    {
+        "date": "April 15, 2024",
+        "name": "Bohag Bihu",
+        "type": "State Holiday"
+    },
+    {
+        "date": "May 1, 2024",
+        "name": "May Day",
+        "type": "State Holiday"
+    },
+    {
+        "date": "June 17, 2024",
+        "name": "Id-ul-Zuha",
+        "type": "State Holiday"
+    },
+    {
+        "date": "August 15, 2024",
+        "name": "Independence Day",
+        "type": "State Holiday"
+    },
+    {
+        "date": "September 4, 2024",
+        "name": "Tirubhav Tithi of Srimanta Sankardeva",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 2, 2024",
+        "name": "Birthday of Mahatma Gandhi",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 10, 2024",
+        "name": "Durga Puja",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 11, 2024",
+        "name": "Durga Puja",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 12, 2024",
+        "name": "Durga Puja",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 13, 2024",
+        "name": "Vijaya Dashomi / Janmostsav of Sri Sri Sankardeva",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 17, 2024",
+        "name": "Kati Bihu",
+        "type": "State Holiday"
+    },
+    {
+        "date": "October 31, 2024",
+        "name": "Kali Puja & Diwali",
+        "type": "State Holiday"
+    },
+    {
+        "date": "December 25, 2024",
+        "name": "Christmas Day",
+        "type": "State Holiday"
+    },
+    {
+        "date": "January 1, 2024",
+        "name": "New Years Day",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "January 14, 2024",
+        "name": "Uruka of Magh Bihu",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "January 17, 2024",
+        "name": "Silpi Divas",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "January 27, 2024",
+        "name": "Busu Dima Festival",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "February 14, 2024",
+        "name": "Ali Aye Ligang",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "February 20, 2024",
+        "name": "Karbi-Dehal-Kachir Dom",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "February 26, 2024",
+        "name": "Shab-E-Barat",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "March 8, 2024",
+        "name": "Sivaratri",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "March 18, 2024",
+        "name": "Khring Khring Baithaw Puja",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "March 30, 2024",
+        "name": "Easter Saturday",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "April 7, 2024",
+        "name": "Lailatur Qadar",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "April 14, 2024",
+        "name": "Tithi of Gopaldeva",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "April 17, 2024",
+        "name": "Deuri Bihu",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "April 21, 2024",
+        "name": "Mahabir Jayanti",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "May 16, 2024",
+        "name": "Birthday of Sri Sri Krishnaguru",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "May 23, 2024",
+        "name": "Baikhowa Festival",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "June 6, 2024",
+        "name": "Tithi of Hari Dev",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "June 20, 2024",
+        "name": "Death Anniversary of Bishnu Prasad Rabha",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "June 30, 2024",
+        "name": "Hul Divas",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "July 13, 2024",
+        "name": "Birthday of Nepali Poet Bhanu Bhakta Acharya",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "August 13, 2024",
+        "name": "Death Anniversary of Bir Tikendrajit",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "September 15, 2024",
+        "name": "Birthday of Sri Sri Thakur Anukul Chandra",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "September 16, 2024",
+        "name": "Fateha-E-Dwaz Daham",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "November 1, 2024",
+        "name": "Kuki Chavang Kut",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "November 3, 2024",
+        "name": "Abirbhav Tithi of Sri Bhubaneswar Sadhu Thakur",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "November 24, 2024",
+        "name": "Death Anniversary of Guru Teg Bahadurji",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "December 5, 2024",
+        "name": "Sikpui Ruoi (Harvest festival of Hmar Community)",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "December 10, 2024",
+        "name": "Martyrs Day",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "December 12, 2024",
+        "name": "Gaan-Ngai",
+        "type": "Restricted Holiday"
+    },
+    {
+        "date": "December 24, 2024",
+        "name": "Christmas Eve",
+        "type": "Restricted Holiday"
+    }
+]

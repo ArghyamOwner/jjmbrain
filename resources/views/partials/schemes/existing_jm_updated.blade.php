@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has assigned exising Jal-Mitra to <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

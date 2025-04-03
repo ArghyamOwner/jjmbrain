@@ -1,0 +1,1 @@
+<strong>{{ $activity->user?->name }}</strong> has {{ $activity->content }} <strong>{{ $activity?->feedable?->name }}</strong>.

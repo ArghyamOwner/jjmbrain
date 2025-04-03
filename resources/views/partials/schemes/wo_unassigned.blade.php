@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has detached workorder from <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

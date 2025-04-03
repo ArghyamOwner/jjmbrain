@@ -1,0 +1,318 @@
+{
+	"Baksa": [
+		"Debitola (part)",
+		"Dotoma",
+		"Golokganj (part)",
+		"Gossaigaon",
+		"Hatidhura (part)",
+		"Kachugaon",
+		"Kokrajhar",
+		"Mahamaya (part)",
+		"Rupsi (part)"
+	],
+	"Barpeta": [
+		"Bajali (part)",
+		"Barpeta",
+		"Bhawanipur",
+		"Chakchaka (part)",
+		"Chenga",
+		"Gobardhana (part)",
+		"Gumaphulbari",
+		"Mandia",
+		"Pakabetbari",
+		"Rupsi",
+		"Sarukhetri"
+	],
+	"Biswanath": [
+		"Baghmara",
+		"Behali",
+		"Biswanath",
+		"Chaiduar",
+		"Chatia",
+		"Pub-chaiduar",
+		"Sakomatha"
+	],
+	"Bongaigaon": [
+		"Baitamari",
+		"Dangtol (part)",
+		"Manikpur (part)",
+		"Srijangram",
+		"Tapatari"
+	],
+	"Cachar": [
+		"Banskandi",
+		"Barjalenga",
+		"Binnakandi",
+		"Borkhola",
+		"Kalain",
+		"Katigorah",
+		"Lakhipur",
+		"Narshingpur",
+		"Palanghat",
+		"Raja Bazar",
+		"Salchapra",
+		"Silchar",
+		"Sonai",
+		"Tapang",
+		"Udarbond"
+	],
+	"Charaideo": [
+		"Lakwa",
+		"Sapekhati",
+		"Sivasagar (part)",
+		"Sonari (mahmora)",
+		"West Abhayapuri (sonari)"
+	],
+	"Chirang": [
+		"Borobazar",
+		"Chakchaka (part)",
+		"Dangtol (part)",
+		"Gobardhana (part)",
+		"Manikpur (part)",
+		"Sidli Chirang"
+	],
+	"Darrang": [
+		"Bechimari (part)",
+		"Dalgaon-sialmari (part)",
+		"Kalaigaon (pt)",
+		"Pachim Mangaldoi (part)",
+		"Pub Mangaldoi (part)",
+		"Sipajhar (part)"
+	],
+	"Dhemaji": [
+		"Bordoloni",
+		"Dhemaji",
+		"Machkhowa",
+		"Murkonselek",
+		"Sissibargaon"
+	],
+	"Dhubri": [
+		"Agamoni",
+		"Bilasipara",
+		"Birshingjarua",
+		"Chapar-salkocha",
+		"Debitola (part)",
+		"Gauripur",
+		"Golokganj (part)",
+		"Hatidhura (part)",
+		"Jamadarhat",
+		"Mahamaya (part)",
+		"Nayeralga",
+		"Rupsi (part)",
+		"South Salmara (part)"
+	],
+	"Dibrugarh": [
+		"Barbarua",
+		"Joypur",
+		"Khowang",
+		"Lahowal",
+		"Panitola",
+		"Tengakhat",
+		"TINGKHONG"
+	],
+	"Dima Hasao" : [
+		"Diyung Valley",
+		"Diyungbra",
+		"HARANGAJAO",
+		"JATINGA VALLEY",
+		"New Sangbar"
+	],
+	"Goalpara": [
+		"Balijana",
+		"Jaleswar",
+		"Kharmuja",
+		"Krishnai",
+		"Kushdhowa",
+		"Lakhipur",
+		"Matia",
+		"Rangjuli"
+	],
+	"Golaghat": [
+		"Gamariguri",
+		"Golaghat Central",
+		"Golaghat East",
+		"Golaghat North",
+		"Golaghat South",
+		"GOLAGHAT WEST",
+		"Kakodonga",
+		"MORONGI"
+	],
+	"Hailakandi" : [
+		"Algapur",
+		"Hailakandi",
+		"Katlicherra",
+		"Lala",
+		"South Hailakandi"
+	],
+	"Hojai": [
+		"Binnakandi",
+		"Dhal Pukhuri",
+		"Jugijan",
+		"Lumding",
+		"Udali"
+	],
+	"Jorhat": [
+		"Jorhat",
+		"JORHAT CENTRAL",
+		"JORHAT EAST",
+		"Jorhat North West",
+		"Kaliapani",
+		"Titabar"
+	],
+	"Kamrup": [
+		"Bezera (part)",
+		"Bihdia-jajikona",
+		"Boko",
+		"Bongaon",
+		"Chamaria",
+		"Chayani Barduar",
+		"Chaygaon",
+		"Goroimari",
+		"Hajo",
+		"Kamalpur",
+		"Rampur",
+		"Rangia (part)",
+		"Rani (part)",
+		"Sualkuchi"
+	],
+	"Kamrup Metropolitan": [
+		"Bezera (part)",
+		"Chandrapur",
+		"Dimoria",
+		"Rani (part)"
+	],
+	"Karbi Anglong East": [
+		"Bokajan",
+		"Howraghat",
+		"Langsomepi",
+		"Lumbajong",
+		"Nilip",
+		"Rongmongway",
+		"Samelangso"
+	],
+	"Karbi Anglong West": [
+		"Amri",
+		"Chinthong",
+		"Rongkhang",
+		"Socheng"
+	],
+	"Karimganj": [
+		"Badarpur",
+		"Dullav Cherra",
+		"Lowairpoa",
+		"North Karimganj",
+		"Patherkandi",
+		"Ramkrishna Nagar",
+		"South Karimganj"
+	],
+	"Kokrajhar": [
+		"Debitola (part)",
+		"Dotoma",
+		"Golokganj (part)",
+		"Gossaigaon",
+		"Hatidhura (part)",
+		"Kachugaon",
+		"Kokrajhar",
+		"Mahamaya (part)",
+		"Rupsi (part)"
+	],
+	"Lakhimpur": [
+		"Bihpuria",
+		"Boginodi",
+		"Dhakuakhana",
+		"Ghilamora",
+		"Karunabari",
+		"Lakhimpur",
+		"Narayanpur",
+		"Nowboicha",
+		"Telahi"
+	],
+	"Majuli": [
+		"Majuli",
+		"Ujani Majuli"
+	],
+	"Morigaon": [
+		"Batadraba (part)",
+		"Bhur-Bandha",
+		"Dulongghat (part)",
+		"Kapili (part)",
+		"Laharighat",
+		"Mairabari (part)",
+		"Mayang"
+	],
+	"Nagaon": [
+		"Bajiagaon",
+		"Barhampur",
+		"Batadraba (part)",
+		"Dulongghat (part)",
+		"Juria",
+		"Kaliabor",
+		"Kapili (part)",
+		"Kathiatoli",
+		"Khagarijan",
+		"Lao-Khowa",
+		"Mairabari (part)",
+		"Pachim-Kaliabor",
+		"Pakhimaria",
+		"Raha",
+		"Rupahi"
+	],
+	"Nalbari": [
+		"Barbhag",
+		"Barigog-Banbhag",
+		"Barkhetri",
+		"Madhupur",
+		"Pachim Nalbari",
+		"Pub-Nalbari",
+		"Tihu"
+	],
+	"Sivasagar": [
+		"Amguri",
+		"Demow",
+		"Gourisagar",
+		"Nazira",
+		"Sivasagar (part)"
+	],
+	"Sonitpur": [
+		"Balipara",
+		"Barchala (part)",
+		"Bihaguri",
+		"Dhekiajuli",
+		"Gabharu",
+		"Naduar",
+		"Rangapara"
+	],
+	"South Salmara Mankachar": [
+		"Fekamari",
+		"Mankachar",
+		"South Salmara (part)"
+	],
+	"Tamulpur": [
+		"Goreswar",
+		"Nagrijuli",
+		"Rangia (part)",
+		"Tamulpur"
+	],
+	"Tinsukia": [
+		"Guijan",
+		"Hapjan",
+		"Itakhuli",
+		"Kakapathar",
+		"Margherita",
+		"Sadiya",
+		"Saikhowa"
+	],
+	"Udalguri": [
+		"Barchala (part)",
+		"Bechimari (part)",
+		"Bhergaon",
+		"Dalgaon-Sialmari (part)",
+		"Kalaigaon (part)",
+		"Khairabari (part)",
+		"Mazbat",
+		"Pachim Mangaldoi (part)",
+		"Pub-Mangaldai (part)",
+		"Rowta",
+		"Udalguri"
+	]
+}

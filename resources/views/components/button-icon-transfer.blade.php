@@ -1,0 +1,3 @@
+<a {{ $attributes }} href="{{ $href }}" class="w-8 h-8 rounded-lg hover:bg-gray-100 text-slate-400 flex items-center justify-center" x-data="{ tooltip: '{{ $tooltipTitle ?? 'Transfer' }}' }" x-tooltip="tooltip" x-cloak>
+	<svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24"><g fill="none"><path d="M20 17H4m0 0l4-4m-4 4l4 4M4 7h16m0 0l-4-4m4 4l-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+</a>

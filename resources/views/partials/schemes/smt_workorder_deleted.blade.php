@@ -1,0 +1,1 @@
+<strong>SMT</strong> Deleted a Workorder - <strong>{{ $activity->content }}</strong>.

@@ -1,0 +1,1 @@
+<livewire:schemes.archive-requests :scheme-id="$scheme->id" />

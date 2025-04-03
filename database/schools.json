@@ -1,0 +1,20 @@
+[
+  {
+    "district": "TINSUKIA",
+    "block": "MARGHERITA",
+    "school_code": 18140309303,
+    "school_name": "D G P JAGUN HIGH SCHOOL",
+    "category": "8-Secondary Only",
+    "latitude": 27.3815913414718,
+    "longitude": 95.9011843339008
+  },
+  {
+    "district": "Dhemaji",
+    "block": "Bordoloni",
+    "school_code": 18130111306,
+    "school_name": "Bordoloni Senior Secondary School",
+    "category": "5-Up. Pr. Secondary and Higher Sec",
+    "latitude": 27.4416059941321,
+    "longitude": 94.4053851053759
+  }
+]

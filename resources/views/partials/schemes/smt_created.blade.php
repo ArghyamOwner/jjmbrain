@@ -1,0 +1,1 @@
+<strong>SMT</strong> has created a New <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

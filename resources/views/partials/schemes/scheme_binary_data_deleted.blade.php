@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has Deleted Item-Wise Progress of {{ $activity->content }} Data of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

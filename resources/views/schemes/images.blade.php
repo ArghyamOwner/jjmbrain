@@ -1,0 +1,1 @@
+<livewire:schemes.images :scheme-id="$scheme->id" />

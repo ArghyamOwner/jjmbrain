@@ -1,0 +1,2 @@
+<strong>{{ $activity->user->name }}</strong> has deleted a WUC <strong>{{ $activity->content }}</strong>
+{!! $activity->scheme ? "of Scheme <strong>".$activity->scheme?->name."</strong> Scheme" : '' !!}.

@@ -1,0 +1,1 @@
+<strong>SMT</strong> has updated Workorder {{ $activity->content }} Details.

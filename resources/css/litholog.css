@@ -1,0 +1,91 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 800;
+        src: url("/fonts/Inter-ExtraBold.woff2") format("woff2"),
+            url("/fonts/Inter-ExtraBold.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/fonts/Inter-Bold.woff2") format("woff2"),
+            url("/fonts/Inter-Bold.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/fonts/Inter-Bold.woff2") format("woff2"),
+            url("/fonts/Inter-Bold.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 600;
+        src: url("/fonts/Inter-SemiBold.woff2") format("woff2"),
+            url("/fonts/Inter-SemiBold.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 500;
+        src: url("/fonts/Inter-Medium.woff2") format("woff2"),
+            url("/fonts/Inter-Medium.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 400;
+        src: url("/fonts/Inter-Regular.woff2") format("woff2"),
+            url("/fonts/Inter-Regular.woff") format("woff");
+    }
+    @font-face {
+        font-family: "Inter";
+        font-style: italic;
+        font-weight: 400;
+        src: url("/fonts/Inter-Italic.woff2") format("woff2"),
+            url("/fonts/Inter-Italic.woff") format("woff");
+    }
+
+    @font-face {
+        font-family: "HKGrotesk";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/fonts/HKGrotesk-Bold.woff2") format("woff2"),
+            url("/fonts/HKGrotesk-Bold.woff") format("truetype");
+    }
+    @font-face {
+        font-family: "HKGrotesk";
+        font-style: normal;
+        font-weight: 600;
+        src: url("/fonts/HKGrotesk-SemiBold.woff2") format("woff2"),
+            url("/fonts/HKGrotesk-SemiBold.woff") format("woff");
+    }
+    @font-face {
+        font-family: "HKGrotesk";
+        font-style: normal;
+        font-weight: 500;
+        src: url("/fonts/HKGrotesk-Medium.woff2") format("woff2"),
+            url("/fonts/HKGrotesk-Medium.woff") format("woff");
+    }
+    @font-face {
+        font-family: "HKGrotesk";
+        font-style: normal;
+        font-weight: 400;
+        src: url("/fonts/HKGrotesk-Regular.woff2") format("woff2"),
+            url("/fonts/HKGrotesk-Regular.woff") format("woff");
+    }
+    @font-face {
+        font-family: "HKGrotesk";
+        font-style: italic;
+        font-weight: 400;
+        src: url("/fonts/HKGrotesk-Italic.woff2") format("woff2"),
+            url("/fonts/HKGrotesk-Italic.woff") format("woff");
+    }
+}

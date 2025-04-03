@@ -1,0 +1,1 @@
+<livewire:schemes.jalmitra-user :scheme-id="$scheme->id" />

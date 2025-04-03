@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has added new Asset to <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

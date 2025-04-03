@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has assigned a Section Officer (SO) to the Scheme.

@@ -1,0 +1,1 @@
+<strong>SMT</strong> Created New Conractor - <strong>{{ $activity?->user?->name }}</strong>

@@ -1,0 +1,1 @@
+{{ $activity->content }} by <strong>{{ $activity->user?->name }}</strong> of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

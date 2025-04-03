@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> uploaded a video for the <strong>Scheme</strong> videos.

@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has Tracked a pipe of {{ $activity->content }} of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

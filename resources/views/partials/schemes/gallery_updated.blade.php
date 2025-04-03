@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> updated the <strong>Scheme</strong> gallery.

@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has updated the Lithologs of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

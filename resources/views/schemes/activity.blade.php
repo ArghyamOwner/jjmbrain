@@ -1,0 +1,1 @@
+<livewire:schemes.activities :scheme-id="$scheme->id" />

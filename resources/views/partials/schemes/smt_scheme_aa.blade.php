@@ -1,0 +1,1 @@
+<strong>SMT</strong> has created New AA for <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

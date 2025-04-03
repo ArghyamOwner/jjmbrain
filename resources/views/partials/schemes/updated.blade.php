@@ -1,0 +1,1 @@
+<strong>{{ $activity->user?->name }}</strong> has {{ $activity->activity_type }} <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

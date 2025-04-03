@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has updated the status of <strong>{{ $activity?->scheme?->name }}</strong> Scheme to <strong>{{ $activity?->scheme?->work_status }}</strong>.

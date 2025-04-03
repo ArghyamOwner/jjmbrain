@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Point Features",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AGANWADI", "description": "TEXT" }, "geometry": { "type": "Point", "coordinates": [ 92.085015853, 26.4731871527 ] } },
+{ "type": "Feature", "properties": { "Name": "MASJID", "description": "TEXT" }, "geometry": { "type": "Point", "coordinates": [ 92.085400570299996, 26.476134662300002 ] } },
+{ "type": "Feature", "properties": { "Name": "MASJID", "description": "TEXT" }, "geometry": { "type": "Point", "coordinates": [ 92.086798647699993, 26.466369752 ] } },
+{ "type": "Feature", "properties": { "Name": "MASJID", "description": "TEXT" }, "geometry": { "type": "Point", "coordinates": [ 92.080310436900007, 26.474336574300001 ] } },
+{ "type": "Feature", "properties": { "Name": " PANCHAYAT ", "description": "TEXT" }, "geometry": { "type": "Point", "coordinates": [ 92.082061421600002, 26.478227563699999 ] } },
+{ "type": "Feature", "properties": { "Name": "PR BWL", "description": "STRUCTURE" }, "geometry": { "type": "Point", "coordinates": [ 92.080299212, 26.476686970500001 ] } }
+]
+}

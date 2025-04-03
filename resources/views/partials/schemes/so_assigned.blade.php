@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has assigned a SO to <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

@@ -1,0 +1,272 @@
+{
+	"Lower Assam Zone": {
+		"Guwahati Circle": {
+			"Guwahati I": [
+				"Guwahati I",
+				"Boko",
+				"Hajo"
+			],
+			"Guwahati II": [
+				"Dispur",
+				"Water Works"
+			],
+			"Store & Workshope": [
+				"Store",
+				"Mechanical"
+			],
+			"Rangia": [
+				"Rangia",
+				"Biswanath Chariali"
+			],
+			"Goalpara": [
+				"Goalpara"
+			],
+			"South Salmara Mankachar Division": [
+				"Hatisingimari"
+			]
+		},
+		"Nalbari Circle": {
+			"Nalbari": [
+				"Nalbari"
+			],
+			"Belsor": [
+				"Belsor"
+			],
+			"Barpeta": [
+				"Barpeta"
+			],
+			"Bajali": [
+				"Pathsala"
+			],
+			"Bongaigaon": [
+				"Bongaigaon"
+			],
+			"Dhubri": [
+				"Dhubri",
+				"Bilasipara",
+				"Hatisingimari"
+			]
+		}
+	},
+	"North Assam Zone": {
+		"Tezpur Circle": {
+			"Tezpur": [
+				"Tezpur",
+				"Tezpur II"
+			],
+			"Tezpur II": [
+				"Dekhiajuli"
+			],
+			"Biswanath Chariali": [
+				"Gohpur",
+				"B.Chariali"
+			],
+			"Mangaldoi": [
+				"Mangaldoi",
+				"Orang"
+			]
+		},
+		"Lakhimpur Circle": {
+			"North Lakhimpur": [
+				"North Lakhimpur",
+				"Bihpuria"
+			],
+			"Dhemaji": [
+				"Dhemaji",
+				"Jonai"
+			],
+			"Ghilamora": [
+				"Ghilamora",
+				"Gogamukh"
+			]
+		}
+	},
+	"Upper Assam Zone": {
+		"Dibrugarh Circle": {
+			"Dibrugarh": [
+				"Dibrugarh",
+				"Moran",
+				"Naharkatia"
+			],
+			"Tinisukia": [
+				"Tinisukia",
+				"Digboi"
+			],
+			"Sivasagar": [
+				"Sivasagar",
+				"Amguri"
+			],
+			"Nazira": [
+				"Nazira",
+				"Sonari"
+			]
+		},
+		"Jorhat Circle": {
+			"Jorhat": [
+				"Jorhat",
+				"Kamalabari",
+				"Titabor"
+			],
+			"Majuli": [
+				"Majuli"
+			],
+			"Bokakhat": [
+				"Bokakhat",
+				"Dergaon"
+			],
+			"Golaghat": [
+				"Golaghat",
+				"Sarupathar"
+			]
+		},
+		"Nagaon Circle": {
+			"Kaliabor": [
+				"Kaliabor",
+				"Jakhalabondha"
+			],
+			"Nagaon": [
+				"Kathiatoli",
+				"Nagaon"
+			],
+			"Dhing": [
+				"Dhing"
+			],
+			"Morigaon": [
+				"Morigaon"
+			],
+			"Hojai": [
+				"Hojai",
+				"Lumding"
+			]
+		}
+	},
+	"Barak Valley Zone": {
+		"Cachar Circle": {
+			"Silchar I": [
+				"Silchar I"
+			],
+			"Silchar II": [
+				"Silchar II",
+				"Pilapool"
+			]
+		},
+		"Hailakandi Circle": {
+			"Hailakandi": [
+				"Hailakandi",
+				"Katlichera"
+			],
+			"Karimganj": [
+				"Karimganj",
+				"Patharkandi",
+				"Badarpur"
+			]
+		}
+	},
+	"Dima Hasao": {
+		"Dima Hasao Circle": {
+			"Haflong": [
+				"Haflong (U)",
+				"Haflong (R)",
+				"Gunjung"
+			],
+			"Gunjung": [
+				"Gunjung"
+			],
+			"Maibong": [
+				"Maibong",
+				"Mahur"
+			],
+			"Umrangsu": [
+				"Umrangsu",
+				"Dayanmukh"
+			],
+			"Mahur": [
+				"Mahur"
+			]
+		}
+	},
+	"Karbi Anglong Autonomous Council": {
+		"KAAC Circle": {
+			"Diphu Rural": [
+				"Diphu Rural",
+				"Chowkihola"
+			],
+			"Diphu Urban": [
+				"Construction",
+				"Maintenance"
+			],
+			"Construction": [
+				"Construction"
+			],
+			"Maintenance": [
+				"Maintenance"
+			],
+			"Howraghat": [
+				"Howraghat",
+				"Dokmoka"
+			],
+			"Hamren": [
+				"Hamren",
+				"Kheroni"
+			],
+			"Ulukuchi": [
+				"Ulukuchi"
+			],
+			"Dayanmukh": [
+				"Dayanmukh"
+			],
+			"Chowkihola": [
+				"Chowkihola"
+			],
+			"Dokmoka": [
+				"Dokmoka"
+			],
+			"Kheroni": [
+				"Kheroni"
+			]
+		}
+	},
+	"Bodoland Territory Autonomous District": {
+		"BTAD Circle": {
+			"Kokrajhar I": [
+				"Kokrajhar I",
+				"Dotma"
+			],
+			"Kokrajhar II": [
+				"Kokrajhar II",
+				"Bijni"
+			],
+			"Gossaigaon": [
+				"Gossaigaon"
+			],
+			"Baksa": [
+				"Masalpur",
+				"Parbotijhora",
+				"Tamulpur"
+			],
+			"Tangla": [
+				"Tangla",
+				"Kalaigaon",
+				"Odalguri"
+			],
+			"Dotma": [
+				"Dotma"
+			],
+			"Masalpur": [
+				"Masalpur"
+			],
+			"Parbotijhora" : [
+				"Parbotijhora"
+			],
+			"Tamulpur": [
+				"Tamulpur"
+			],
+			"Kalaigaon": [
+				"Kalaigaon"
+			],
+			"Odalguri": [
+				"Odalguri"
+			]
+		}
+	}
+}

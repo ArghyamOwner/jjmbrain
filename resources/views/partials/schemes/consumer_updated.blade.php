@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has updated the APDCL Consumer No. of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

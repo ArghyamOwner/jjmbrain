@@ -1,0 +1,1 @@
+<strong>SMT</strong> has updated {{ $activity->content }} of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

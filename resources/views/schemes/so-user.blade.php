@@ -1,0 +1,1 @@
+<livewire:schemes.so-user :scheme="$scheme" />

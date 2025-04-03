@@ -1,0 +1,1 @@
+{{-- <livewire:schemes.videos :scheme-id="$scheme->id" /> --}}

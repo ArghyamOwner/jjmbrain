@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has Deleted a {{ $activity->content }} of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.

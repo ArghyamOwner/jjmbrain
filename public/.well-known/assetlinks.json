@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tech.sumato.jjm.jalmitra",
+      "sha256_cert_fingerprints": [
+        "56:1A:9A:F1:D0:72:FF:A7:09:B7:BD:F3:92:34:DF:E2:6A:18:24:E1:5F:DA:17:CF:1C:F5:BD:A9:22:03:2B:B5",
+        "A9:CD:C9:DF:D4:6B:D5:2D:75:D4:3A:95:5F:7C:AF:5B:93:C1:27:A5:31:1C:7A:39:2C:A3:73:A1:37:70:59:D6"
+      ]
+    }
+  }
+]

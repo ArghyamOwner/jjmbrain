@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has attached <strong>{{ $activity?->scheme?->name }}</strong> Scheme to a workorder.

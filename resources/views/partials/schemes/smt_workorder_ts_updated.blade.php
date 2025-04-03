@@ -1,0 +1,1 @@
+<strong>SMT</strong> TS for Workorder <strong>{{ $activity->content }}</strong> Updated.

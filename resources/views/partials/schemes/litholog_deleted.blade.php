@@ -1,0 +1,1 @@
+<strong>{{ $activity->user->name }}</strong> has deleted the Lithologs {{ $activity->content }} of <strong>{{ $activity?->scheme?->name }}</strong> Scheme.
